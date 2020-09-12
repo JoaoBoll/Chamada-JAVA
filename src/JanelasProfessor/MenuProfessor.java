@@ -26,8 +26,6 @@ public class MenuProfessor extends JFrame {
 	private int IdProf;
 	private int IdCurso = login.getIdCurso();
 	
-	}
-
 	public void setIdProf(int idprof) {
 		this.IdProf = idprof;
 	}
